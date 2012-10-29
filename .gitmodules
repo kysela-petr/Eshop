@@ -1,3 +1,6 @@
 [submodule "libs/nette"]
 	path = libs/nette
 	url = https://github.com/nette/nette.git
+[submodule "libs/PHPTestCase"]
+	path = libs/PHPTestCase
+	url = https://github.com/DeveloperHub/PHPTestCase.git
