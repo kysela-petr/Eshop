@@ -1,0 +1,3 @@
+[submodule "libs/nette"]
+	path = libs/nette
+	url = https://github.com/nette/nette.git
